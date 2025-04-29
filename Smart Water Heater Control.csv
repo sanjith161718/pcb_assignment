@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U3";"ESP32-S2-WROVER";1;"ESP32-S2-WROVER";;;
+2;"U4";"SIP4_Sharp-SSR_P7.62mm_Straight";1;"S202S02";;;
+3;"R2";"R_0402_1005Metric";1;"Heater";;;
+4;"PS1";"Converter_ACDC_Hi-Link_HLK-PMxx";1;"HLK-PM03";;;
+5;"U1";"TO-92_Inline";1;"DS18B20";;;
+6;"R1";"R_0201_0603Metric";1;"R_US";;;
+7;"U2";"DIP-4_W7.62mm";1;"EL817";;;
